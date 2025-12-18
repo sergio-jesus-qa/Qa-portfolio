@@ -22,4 +22,4 @@ QA, Computer and Information Sciences and Support Services
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/sergio-luiz-561868343/
-- Email: [sergido102@gmail.com
+- Email: sergido102@gmail.com
