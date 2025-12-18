@@ -1,25 +1,21 @@
-# Portfólio QA Júnior - Sergio Jesus
+# 👋 Olá, eu sou o Sérgio
 
-Olá! Sou Sergio Jesus, QA Júnior em transição de carreira. Apaixonado por garantir qualidade em softwares. Buscando primeira oportunidade em testes manuais e automação básica.
+Sou **QA Júnior**, com foco em **testes manuais** e **automação básica**, em busca da minha primeira oportunidade na área de qualidade de software.
 
-## Sobre Mim
-- Certificações: Cursera
-QA, Computer and Information Sciences and Support Services
-- Habilidades: Testes manuais, exploratórios, funcionais; Jira, Postman, SQL básico; Cypress/Selenium (iniciante).
-- Ferramentas: Excel/Google Sheets, Git.
+## 🎯 Objetivo
+Atuar como **QA Júnior / Trainee**, contribuindo com testes bem documentados, identificação de bugs e melhoria contínua da qualidade.
 
-## Projetos Práticos
-### Projeto 1: Testes no Site SauceDemo (e-commerce de prática)
-- Descrição: Testei login, carrinho e checkout.
-- [Casos de Teste (planilha)](link-para-arquivo)
-- [Relatório de Bugs](link-para-arquivo)
-- Screenshots e evidências.
+## 🧰 Conhecimentos
+- Testes Manuais (funcional, regressão, exploratório)
+- Criação de casos de teste
+- Relatórios de bugs
+- Testes de API (Postman - básico)
+- Automação com Cypress (básico)
+- Git e GitHub
 
-### Projeto 2: Testes de API com Postman
-- Coleção de requests para uma API pública.
+## 📂 Projetos
+👉 Os projetos abaixo demonstram meus estudos e prática em QA.
 
-(Adicione mais projetos abaixo)
-
-## Contato
-- LinkedIn: https://www.linkedin.com/in/sergio-luiz-561868343/
+## 📫 Contato
 - Email: sergido102@gmail.com
+- LinkedIn:https://www.linkedin.com/in/sergio-luiz-561868343/
