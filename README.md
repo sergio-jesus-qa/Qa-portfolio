@@ -1,4 +1,4 @@
-# Portfólio QA Júnior - [Seu Nome]
+# Portfólio QA Júnior - Sergio Jesus
 
 Olá! Sou Sergio Jesus, QA Júnior em transição de carreira. Apaixonado por garantir qualidade em softwares. Buscando primeira oportunidade em testes manuais e automação básica.
 
