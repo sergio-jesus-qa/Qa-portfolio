@@ -1,21 +1,13 @@
-# 👋 Olá, eu sou o Sérgio
+# Portfólio QA Júnior - Sérgio Jesus
 
-Sou **QA Júnior**, com foco em **testes manuais** e **automação básica**, em busca da minha primeira oportunidade na área de qualidade de software.
+Bem-vindo ao meu portfólio de Quality Assurance! Aqui documento meus estudos e projetos práticos para demonstrar habilidades em testes de software.
 
-## 🎯 Objetivo
-Atuar como **QA Júnior / Trainee**, contribuindo com testes bem documentados, identificação de bugs e melhoria contínua da qualidade.
+### Conteúdo
+- **Testes Manuais**: Casos de teste, matriz e exemplos reais.
+- **Relatórios de Bugs**: Bugs encontrados em sites públicos (ex: e-commerce demo).
+- **Automação**: Testes UI com Cypress em aplicações web.
+- **API Testing**: Coleções básicas no Postman.
 
-## 🧰 Conhecimentos
-- Testes Manuais (funcional, regressão, exploratório)
-- Criação de casos de teste
-- Relatórios de bugs
-- Testes de API (Postman - básico)
-- Automação com Cypress (básico)
-- Git e GitHub
+Estou sempre atualizando com novos projetos para mostrar evolução!
 
-## 📂 Projetos
-👉 Os projetos abaixo demonstram meus estudos e prática em QA.
-
-## 📫 Contato
-- Email: sergido102@gmail.com
-- LinkedIn:https://www.linkedin.com/in/sergio-luiz-561868343/
+Última atualização: Dezembro 2025 🚀
