@@ -1,14 +1,34 @@
 # Portfólio QA Júnior - Sérgio Jesus
 
-Bem-vindo ao meu portfólio de Quality Assurance! Aqui documento meus estudos e projetos práticos para demonstrar habilidades em testes de software.
+Bem-vindo ao meu portfólio de Quality Assurance!  
+Estou em formação como QA Júnior, com foco em **testes manuais**, **relatórios de bugs** e **automação de testes com Cypress**.  
 
-### Conteúdo
-- **Testes Manuais**: Casos de teste, matriz e exemplos reais.
-- **Relatórios de Bugs**: Bugs encontrados em sites públicos (ex: e-commerce demo).
-- **Automação**: Testes UI com Cypress em aplicações web.
-- **API Testing**: Coleções básicas no Postman.
+Atualmente buscando oportunidades em Portugal (híbrido ou remoto).
 
-Estou sempre atualizando com novos projetos para mostrar evolução!
+### Habilidades e Ferramentas
+- Testes Manuais: Planos de teste, casos de teste detalhados (Excel, Markdown), matriz de rastreabilidade.
+- Relatórios de Bugs: Documentação profissional com passos para reproduzir, evidências visuais (screenshots anotados) e severidade.
+- Automação de Testes: Cypress (E2E, 100% green) – login, carrinho, checkout no SauceDemo.
+- Controle de Versão: Git & GitHub.
+- Outras: Noções de Jira, Postman (API básico), uso de IA para gerar e otimizar scripts de teste.
 
-Última atualização: Dezembro 2025 🚀
-- [Automação com Cypress](./automacao-cypress/) 🤖 (testes de login, carrinho e checkout no SauceDemo – rodando 100% verde!)
+### Projetos em Destaque
+- **Testes Manuais** – Casos de teste detalhados no SauceDemo (Excel + Markdown):  
+  [Ver pasta testes-manuais](./testes-manuais/)
+
+- **Relatórios de Bugs** – 4 bugs reais reportados com tabela, passos, resultados e screenshots:  
+  [Ver pasta relatorios-bugs](./relatorios-bugs/)
+
+- **Automação com Cypress** – Testes E2E completos (login, carrinho, checkout – todos passando verde):  
+  [Ver pasta automacao-cypress](./automacao-cypress/)
+
+### Progresso e Atividade
+- Dezembro 2025: Configuração completa de Cypress, testes rodando 100% green, limpeza de estrutura e documentação profissional.
+- Compromisso: Atualizações regulares para adicionar novos testes e funcionalidades (ex: API testing, CI/CD).
+
+### Contato
+- LinkedIn: [linkedin.com/in/sergio-luiz-561868343](https://www.linkedin.com/in/sergio-luiz-561868343/)
+- Email: sergido102@gmail.com
+- Disponível para vagas QA Júnior em Portugal (híbrido em Porto/Leiria ou remoto).
+
+Obrigado por visitar! Feedback é bem-vindo. 🚀
