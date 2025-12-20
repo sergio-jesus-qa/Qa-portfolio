@@ -11,6 +11,7 @@ Atualmente buscando oportunidades em Portugal (híbrido ou remoto).
 - Automação de Testes: Cypress (E2E, 100% green) – login, carrinho, checkout no SauceDemo.
 - Controle de Versão: Git & GitHub.
 - Outras: Noções de Jira, Postman (API básico), uso de IA para gerar e otimizar scripts de teste.
+- Uso de IA para gerar e otimizar scripts de teste (ex: Grok, ChatGPT)
 
 ### Projetos em Destaque
 - **Testes Manuais** – Casos de teste detalhados no SauceDemo (Excel + Markdown):  
