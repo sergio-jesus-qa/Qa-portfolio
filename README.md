@@ -22,6 +22,14 @@ Atualmente buscando oportunidades em Portugal (híbrido ou remoto).
 - **Automação com Cypress** – Testes E2E completos (login, carrinho, checkout – todos passando verde):  
   [Ver pasta automacao-cypress](./automacao-cypress/)
 
+  ### Evidências Visuais – Automação Cypress
+Todos os testes (login, carrinho e checkout) rodando 100% green no runner:
+
+![Cypress Runner - Testes Passing Green](imagens/cypress-runner-green.png)
+![Login.spec.cy.js - Todos os testes verde](imagens/login-green.png)
+![Carrinho.spec.cy.js - Adição ao carrinho](imagens/carrinho-green.png)
+![Checkout.spec.cy.js - Compra finalizada](imagens/checkout-green.png)
+
 ### Progresso e Atividade
 - Dezembro 2025: Configuração completa de Cypress, testes rodando 100% green, limpeza de estrutura e documentação profissional.
 - Compromisso: Atualizações regulares para adicionar novos testes e funcionalidades (ex: API testing, CI/CD).
