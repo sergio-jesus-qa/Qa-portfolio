@@ -11,3 +11,4 @@ Bem-vindo ao meu portfólio de Quality Assurance! Aqui documento meus estudos e 
 Estou sempre atualizando com novos projetos para mostrar evolução!
 
 Última atualização: Dezembro 2025 🚀
+- [Automação com Cypress](./automacao-cypress/) 🤖 (testes de login no SauceDemo)
