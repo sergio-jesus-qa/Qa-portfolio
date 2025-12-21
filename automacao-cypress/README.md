@@ -12,6 +12,9 @@ Projeto E2E para https://www.saucedemo.com/.
 2. npm install
 3. npx cypress open
 
+### Estrutura Avançada
+- Uso de **Page Object Model** (POM) para organização e reutilização de código.
+
 Em constante evolução – mais testes em breve! 🚀
 
 
