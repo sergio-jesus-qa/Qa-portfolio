@@ -14,4 +14,9 @@ describe('Testes de Login no SauceDemo com POM', () => {
     LoginPage.login('errado', 'errado')
     cy.get('[data-test="error"]').should('contain', 'Username and password do not match')
   })
+
+  it('Usuário bloqueado', () => {
+    LoginPage.login('locked_out_user', 'secret_sauce')
+    cy.get('[data-test="error"]').should('contain', 'Sorry, this user has been locked out')
+  })
 })
